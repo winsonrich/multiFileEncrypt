@@ -1,0 +1,29 @@
+package pwdencrypt;
+
+/**
+ *
+ * @author Winson Wan
+ */
+public class PwdEncrypt {
+    String fn;
+    private void pwdEncrypt(String fn){
+        this.fn=fn;
+        
+    }
+
+    public static void main(String[] args) {
+        //to be continue..
+        //private FileInputStream fs = new FileInputStream(s);
+        
+        //create thread to process multiple file
+        
+        //read in file by byte
+        
+        start the threads
+        for(String s:args){
+           
+        }
+            
+    }
+    
+}
